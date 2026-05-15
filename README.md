@@ -1,4 +1,4 @@
-# Material Stream Identification System
+# ♻️ Material Stream Identification System
 
 A Machine Learning project for automated material classification using computer vision and handcrafted feature extraction techniques. The system classifies different material categories from images to support smart recycling and waste-sorting applications.
 
